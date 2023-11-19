@@ -1,5 +1,3 @@
-# Vue 3 tributejs implementation test
+# Vue 3 quill-mention implementation for user tagging
 
-## Used https://github.com/zurb/tribute
-
-Because the https://github.com/syropian/vue-tribute repo seems to be out of date I wanted to try to implement my own
+## Used [https://github.com/zurb/tribute](https://github.com/quill-mention/quill-mention)
